@@ -2,6 +2,7 @@
 
 This project is a modular ROS 2 application that controls a **Turtlesim** robot to move in a circular path. It features custom message interfaces, parameter-based configurations, and service-based control logic (Stop/Start).
 
+![alt text](image.png)
 ---
 
 ## 💡 Project Concept
